@@ -11,11 +11,13 @@ This Flask application serves as a web interface for predicting student math sco
   git clone https://github.com/JK1Real/Student_performance.git
 ```
 2. Navigate to the project directory:
-cd Student_performance
-
-3. Install dependencies using pip:
-pip install -r requirements.txt
-
+   ```bash
+  cd Student_performance
+  ```
+4. Install dependencies using pip:
+```bash
+  pip install -r requirements.txt
+```
 ## Usage
 1. Run the Flask application:
   python app.py
